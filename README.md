@@ -2,7 +2,7 @@
 
 3D model data of "山本トロン" (Yamamoto Tron).
 
-![Image](https://img.make.dmm.com/images/shop/235456/yamamoto_tron_720x720_20190406181238525.jpg)
+![Image](yamamoto_tron_360x360.jpg)
 
 ## Overview
 
