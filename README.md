@@ -1,8 +1,8 @@
 # 山本トロン (YamamotoTron)
 
-3D model data of "山本トロン" (Yamamoto Tron).
+3D model data in OpenSCAD format of "山本トロン" (Yamamoto Tron).
 
-![Image](yamamoto_tron_360x360.jpg)
+![Image](yamamoto_tron_openscad_360x360.jpg)
 
 ## Overview
 
@@ -12,6 +12,8 @@ written for generating STL data to 3D print it.
 ["パソコンによる3次元グラフィックスの実際"](https://www.amazon.co.jp/dp/B000J7AMMU)
 (The art of 3D graphics by personal computers) written by
 [Tsuyoshi Yamamoto, a professor of Hokkaido University](https://researchers.general.hokudai.ac.jp/profile/ja.ae649a24ea72e6aa520e17560c007669.html), in 1983.
+
+![The original Yamamoto Tron.](yamamoto_tron_360x360.jpg)
 
 ## Needs printing quickly?
 
