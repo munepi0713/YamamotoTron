@@ -75,7 +75,7 @@ You need to install [OpenSCAD](http://www.openscad.org/) first.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Copyright (C) 1983, 2019. Munehiro Doi, Yamamoto Tsuyoshi.  
+Copyright (C) 2019. Munehiro Doi.  
 This work (SCAD file) is licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">a Creative Commons Attribution 4.0 International License</a>.
 
 The copyright of the original works (the 3D CG drawing, the program, and the book) belongs to Tsuyoshi Yamamoto. (Not Creative Commons License.)
