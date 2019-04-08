@@ -11,7 +11,7 @@ written for generating STL data to 3D print it.
 "Yamamoto Tron" is a 3D model introduced in a legendary book
 ["パソコンによる3次元グラフィックスの実際"](https://www.amazon.co.jp/dp/B000J7AMMU)
 (The art of 3D graphics by personal computers) written by
-[Tsuyoshi Yamamoto, a professor of Hokkaido University](https://researchers.general.hokudai.ac.jp/profile/ja.ae649a24ea72e6aa520e17560c007669.html), in 1983.
+[Tsuyoshi Yamamoto, a professor at Hokkaido University](https://researchers.general.hokudai.ac.jp/profile/ja.ae649a24ea72e6aa520e17560c007669.html), in 1983.
 
 ![The original Yamamoto Tron.](yamamoto_tron_360x360.jpg)
 
@@ -19,7 +19,7 @@ written for generating STL data to 3D print it.
 
 Pre-generated models are available on the market.
 Please visit the creator's shop https://make.dmm.com/shop/235456/ or
-search by "山本トロン" from https://make.dmm.com/market/.
+search by "山本トロン" on https://make.dmm.com/market/.
 
 ## How to generate STL?
 
@@ -30,32 +30,32 @@ You need to install [OpenSCAD](http://www.openscad.org/) first.
 
 1. Set the parts to show.
 
-    The models consists of three parts.
+    The model consists of three parts.
     To generate buildable STL data,
-    you need to generate parts one by one.
+    you need to generate those parts one by one.
     Set the `parts_to_show` parameter to select a part to show.
 
-    To show only the front tire part, set it as
+    For example, to show only the front tire part, set it as
     ```
     parts_to_show = [0, 1, 0];
     ```
 
-1. Set scale factor.
+1. Set the scale factor.
 
     The default real size is around W161mm x D101mm x H85mm.
 
     If you want to scale it to save cost or need a bigger model,
     set the `fscale` parameter.
 
-    To reduce the size by half, set it as
+    For example, to reduce the size by half, set it as
     ```
     fscale = 0.5;
     ```
 
-1. Set precision factor.
+1. Set the rendering precision factor.
 
-    The default precision is optimized for a realtime preview.
-    More precise configuration is recommended for STL data.
+    The default rendering precision is optimized for a real-time preview.
+    The better precision is recommended for STL data.
 
     Set the `prec` parameter as `0.1` or other.
     ```
